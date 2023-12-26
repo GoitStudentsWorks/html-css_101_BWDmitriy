@@ -5,7 +5,7 @@
   "type": "module",
   "scripts": {
     "dev": "vite",
-    "build": "vite build --base=/FullyStacked-YachtJet/",
+    "build": "vite build --base=/html-css_101_BWDmitriy/",
     "preview": "vite preview"
   },
   "devDependencies": {
